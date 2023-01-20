@@ -59,15 +59,15 @@ const Home = () => {
         </p>
 
         <h2>Passionate JavaScript Developer</h2>
-
         <p>
-          Currently, I&apos;m working as a member of technical staff at{" "}
-          <a href="https://paypal.com/mep">PayPal</a>.
-        </p>
-        <p>
-          I&apos;m leading a team of 6 engineers doing full stack things with
-          bleeding-edge JavaScript, ReactJS, Node.js, and GraphQL etc. to enable
-          better products for Merchants.
+          I am a member of the technical staff at{" "}
+          <a href="https://paypal.com/mep">PayPal</a>, where I lead a team of
+          6-8 engineers in utilizing advanced technologies such as JavaScript,
+          ReactJS, Next.js, Node.js, and GraphQL to enhance the products offered
+          to merchants. My role also includes mentoring my team, and driving the
+          technical direction of the project. Additionally, I am responsible for
+          ensuring the timely delivery of high-quality and high-performing
+          software that meets the needs of our merchants.
         </p>
       </section>
       <div className="gradient"></div>

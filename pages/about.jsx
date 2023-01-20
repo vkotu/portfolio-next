@@ -61,22 +61,32 @@ const About = () => {
               <h3>Hi! I&apos;m Venkat Kotu</h3>
               <p className="blackbox">
                 <p>
-                  I build JavaScript applications, I&apos;m equipped with the
-                  right tools, and can absolutely function independently of them
-                  to deliver fast, resilient optimized solutions. Security,
-                  performance, and accessibility are top priorities on my radar.
-                  I&apos;ve built products for big enterprises like PayPal,
-                  Yahoo, and Broadcom ranging from micro components to complex
-                  monolithic products with focus on fast, elegant and accessible
-                  user experiences
+                  I am a JavaScript developer with experience in building
+                  efficient and optimized solutions. My primary focus is on
+                  ensuring security, performance, and accessibility in all of my
+                  projects. I have gained valuable experience working for
+                  notable companies such as PayPal, Yahoo, and Broadcom, where I
+                  have created a wide range of products, from small components
+                  to large-scale systems, with a strong emphasis on creating
+                  fast and user-friendly experiences.{" "}
                 </p>
                 <p>
-                  Currently, I work at Paypal as a member of technical staff and
-                  accessibility advocate crafting thoughtful and inclusive
-                  experiences that adhere to web standards for millions of
-                  merchants across the world. Before now, I was a Full Stack
-                  Software Engineer III at Yahoo, where I worked on Yahoo
-                  add-platform UI running their campaign and reporting.
+                  I am a strong believer in constant learning and stay
+                  up-to-date with the latest technologies in order to bring new
+                  and innovative solutions to the team. I have a passion for
+                  improving both the application and developer efficiency. I am
+                  confident that my skills and experience make me a valuable
+                  asset to any organization looking to build high-quality,
+                  secure and efficient web applications.
+                </p>
+                <p>
+                  Currently, I am a member of the technical staff at PayPal,
+                  where I work as an accessibility advocate and help create
+                  inclusive experiences that adhere to web standards for
+                  millions of merchants worldwide. Before my current role, I was
+                  a Full Stack Software Engineer III at Yahoo, where I worked on
+                  the user interface for Yahoo&apos;s advertising platform,
+                  managing campaigns and reporting.
                 </p>
               </p>
               <h4>Hobbies</h4>

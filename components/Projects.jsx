@@ -8,17 +8,20 @@ const Projects = () => {
           <h4>PayPal&apos;s Project</h4>
           <h3>Merchant Funds Management</h3>
           <p className="blackbox">
-            Did a complete redesign and built the merchant&apos;s money
-            dashboard/ money transfers experiences from scratch that was built
-            previously using legacy libraries and practices. You can see the
-            experience by signing up for a{" "}
+            I recently led a complete redesign of the merchant&apos;s money
+            dashboard and money transfer experiences at PayPal. The previous
+            version was built using outdated libraries and practices, but my
+            team and I were able to rebuild it from scratch. The new dashboard
+            is now available to business users and boasts an impressive 2
+            million active users per month who are able to perform various
+            actions with ease and efficiency. You can see the experience for
+            yourself by signing up for a{" "}
             <a href="https://www.paypal.com/us/webapps/mpp/account-selection">
               business
             </a>{" "}
-            and accessing this{" "}
-            <a href="https://www.paypal.com/businesswallet/money">page</a>.
-            There are ~2 million active users per month using this dashboard and
-            performing various actions.
+            account and accessing the money{" "}
+            <a href="https://www.paypal.com/businesswallet/money">dashboard</a>{" "}
+            page.
           </p>
           <h4>Technologies used include:</h4>
           <ul>
@@ -43,15 +46,18 @@ const Projects = () => {
           <h4>PayPal&apos;s Project</h4>
           <h3>Merchant&apos;s Home Page</h3>
           <p className="blackbox">
-            Built micro front end components hosted on internal micro front end
-            framework. All the components in the page are independent and can be
-            built with any tech stack. You can see the experience by signing up
-            for a{" "}
+            I have led the development of micro front-end components that are
+            hosted on an internal micro front-end framework at PayPal. This
+            allows for increased flexibility as each component on the page can
+            be built using a variety of different technology stacks. The result
+            is a highly modular and efficient system that can be easily
+            maintained and updated. You can see the experience for yourself by
+            signing up for a{" "}
             <a href="https://www.paypal.com/us/webapps/mpp/account-selection">
               business
             </a>{" "}
-            and accessing this{" "}
-            <a href="https://www.paypal.com/mep/dashboard">page</a>.
+            account and accessing the{" "}
+            <a href="https://www.paypal.com/mep/dashboard">page</a>. on PayPal.
           </p>
           <h4>Technologies used include:</h4>
           <ul>
@@ -76,10 +82,15 @@ const Projects = () => {
           <h4>PayPal&apos;s Project</h4>
           <h3>Merchant&apos;s Tenancy Level Experience</h3>
           <p className="blackbox">
-            This unified experience project is developed to address pain points
-            of large merchants like ebay, Amazon etc. Architected, designed, and
-            co implemented this project by collaborating with various cross
-            functional teams across PayPal to achieve this.
+            I have been involved in a project at PayPal that aims to address the
+            pain points of large merchants such as eBay and Amazon. This
+            project, known as the &quot;unified experience,&quot; was designed
+            to improve the overall user experience for these merchants. My role
+            in this project includes architecting, designing, and
+            co-implementing the solution by working closely with
+            cross-functional teams throughout PayPal. Through collaboration and
+            teamwork, we have been able to achieve our goal of creating a
+            seamless and efficient experience for large merchants using PayPal.
           </p>
           <h4>Technologies used include:</h4>
           <ul>
@@ -104,9 +115,12 @@ const Projects = () => {
           <h4>Personal learning project</h4>
           <h3>Music app like a spotify</h3>
           <p className="blackbox">
-            This project was developed during a next.js workshop. I Learned a
-            lot about next.js framework and how to build applications securely
-            while working on this project.
+            I participated in a workshop where we developed a project utilizing
+            the Next.js framework. This workshop provided me with a valuable
+            opportunity to gain hands-on experience with the Next.js framework
+            and learn about building secure applications. I gained a great deal
+            of knowledge and skills from working on this project, which I will
+            be able to apply to my future endeavors.
           </p>
           <h4>Technologies used include:</h4>
           <ul>
