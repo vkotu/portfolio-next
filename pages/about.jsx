@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import Footer from "../components/Footer";
 
 const About = () => {
@@ -27,13 +28,14 @@ const About = () => {
             <a
               href="https://www.linkedin.com/in/venkatasaireddy/"
               target="_blank"
+              rel="noreferrer"
             >
               <span className="fa-brands fa-linkedin" aria-hidden="true"></span>{" "}
               <span className="sr-only">LinkedIn</span>
             </a>
           </li>
           <li>
-            <a href="https://github.com/vkotu" target="_blank">
+            <a href="https://github.com/vkotu" target="_blank" rel="noreferrer">
               <span className="fa-brands fa-github" aria-hidden="true"></span>
               <span className="sr-only">Github</span>
             </a>
@@ -43,6 +45,7 @@ const About = () => {
               href="https://drive.google.com/file/d/17ZtCNdYFylCuAvIPpiaqB4_4fdfhW5el/view?usp=sharing"
               className="button"
               target="_blank"
+              rel="noreferrer"
             >
               Resume
             </a>
@@ -55,15 +58,15 @@ const About = () => {
           <h2>About Me!</h2>
           <article>
             <div className="text">
-              <h3>Hi! I'm Venkat Kotu</h3>
+              <h3>Hi! I&apos;m Venkat Kotu</h3>
               <p className="blackbox">
                 <p>
-                  I build JavaScript applications, I'm equipped with the right
-                  tools, and can absolutely function independently of them to
-                  deliver fast, resilient optimized solutions. Security,
+                  I build JavaScript applications, I&apos;m equipped with the
+                  right tools, and can absolutely function independently of them
+                  to deliver fast, resilient optimized solutions. Security,
                   performance, and accessibility are top priorities on my radar.
-                  I've built products for big enterprises like PayPal, Yahoo,
-                  and Broadcom ranging from micro components to complex
+                  I&apos;ve built products for big enterprises like PayPal,
+                  Yahoo, and Broadcom ranging from micro components to complex
                   monolithic products with focus on fast, elegant and accessible
                   user experiences
                 </p>
@@ -84,7 +87,12 @@ const About = () => {
                 <li>Skiing</li>
               </ul>
             </div>
-            <img src="/9.png" alt="Screenshot of profile pic." />
+            <Image
+              width={500}
+              height={650}
+              src="/9.png"
+              alt="Screenshot of profile pic."
+            />
           </article>
         </section>
       </div>

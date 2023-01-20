@@ -1,11 +1,11 @@
-export default () => {
+const Contact = () => {
   return (
     <div className="section-plum">
       <section id="contact">
         <h2>Contact me</h2>
 
         <p>
-          I'm always interested in exploring more JavaScript, solve new
+          I&apos;m always interested in exploring more JavaScript, solve new
           challenges.
         </p>
 
@@ -18,3 +18,5 @@ export default () => {
     </div>
   );
 };
+
+export default Contact;

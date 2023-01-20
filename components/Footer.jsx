@@ -1,4 +1,4 @@
-export default () => {
+const Footer = () => {
   return (
     <footer>
       <h2>Venkat Kotu - Senior Software Engineer</h2>
@@ -29,3 +29,5 @@ export default () => {
     </footer>
   );
 };
+
+export default Footer;

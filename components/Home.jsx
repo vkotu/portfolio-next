@@ -29,13 +29,14 @@ const Home = () => {
             <a
               href="https://www.linkedin.com/in/venkatasaireddy/"
               target="_blank"
+              rel="noreferrer"
             >
               <span className="fa-brands fa-linkedin" aria-hidden="true"></span>{" "}
               <span className="sr-only">LinkedIn</span>
             </a>
           </li>
           <li>
-            <a href="https://github.com/vkotu" target="_blank">
+            <a href="https://github.com/vkotu" target="_blank" rel="noreferrer">
               <span className="fa-brands fa-github" aria-hidden="true"></span>
               <span className="sr-only">Github</span>
             </a>
@@ -45,6 +46,7 @@ const Home = () => {
               href="https://drive.google.com/file/d/17ZtCNdYFylCuAvIPpiaqB4_4fdfhW5el/view?usp=sharing"
               className="button"
               target="_blank"
+              rel="noreferrer"
             >
               Resume
             </a>
@@ -59,11 +61,11 @@ const Home = () => {
         <h2>Passionate JavaScript Developer</h2>
 
         <p>
-          Currently, I'm working as a member of technical staff at{" "}
+          Currently, I&apos;m working as a member of technical staff at{" "}
           <a href="https://paypal.com/mep">PayPal</a>.
         </p>
         <p>
-          I'm leading a team of 6 engineers doing full stack things with
+          I&apos;m leading a team of 6 engineers doing full stack things with
           bleeding-edge JavaScript, ReactJS, Node.js, and GraphQL etc. to enable
           better products for Merchants.
         </p>
