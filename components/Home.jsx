@@ -60,7 +60,7 @@ const Home = () => {
 
         <h2>Passionate JavaScript Developer</h2>
         <p>
-          I am a member of the technical staff at{" "}
+          I am a Member of the Technical Staff at{" "}
           <a href="https://paypal.com/mep">PayPal</a>, where I lead a team of
           6-8 engineers in utilizing advanced technologies such as JavaScript,
           ReactJS, Next.js, Node.js, and GraphQL to enhance the products offered
