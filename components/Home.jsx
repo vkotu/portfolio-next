@@ -60,14 +60,14 @@ const Home = () => {
 
         <h2>Passionate JavaScript Developer</h2>
         <p>
-          I am a Member of the Technical Staff at{" "}
+          I am a Member of Technical Staff at{" "}
           <a href="https://paypal.com/mep">PayPal</a>, where I lead a team of
-          6-8 engineers in utilizing advanced technologies such as JavaScript,
-          ReactJS, Next.js, Node.js, and GraphQL to enhance the products offered
-          to merchants. My role also includes mentoring my team, and driving the
-          technical direction of the project. Additionally, I am responsible for
-          ensuring the timely delivery of high-quality and high-performing
-          software that meets the needs of our merchants.
+          engineers who specialize in advanced technologies such as JavaScript,
+          ReactJS, Next.js, Node.js, and GraphQL to enhance merchant products. I
+          mentor my team, drive the technical direction of the project, and
+          collaborate with cross-functional teams to deliver high-quality,
+          cutting-edge solutions that align with company goals and meet merchant
+          needs.
         </p>
       </section>
       <div className="gradient"></div>

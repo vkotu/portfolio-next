@@ -44,42 +44,6 @@ const Projects = () => {
       <article className="reverse">
         <div className="text">
           <h4>PayPal&apos;s Project</h4>
-          <h3>Merchant&apos;s Home Page</h3>
-          <p className="blackbox">
-            I have led the development of micro front-end components that are
-            hosted on an internal micro front-end framework at PayPal. This
-            allows for increased flexibility as each component on the page can
-            be built using a variety of different technology stacks. The result
-            is a highly modular and efficient system that can be easily
-            maintained and updated. You can see the experience for yourself by
-            signing up for a{" "}
-            <a href="https://www.paypal.com/us/webapps/mpp/account-selection">
-              business
-            </a>{" "}
-            account and accessing the{" "}
-            <a href="https://www.paypal.com/mep/dashboard">page</a>. on PayPal.
-          </p>
-          <h4>Technologies used include:</h4>
-          <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>ReactJS</li>
-            <li>Redux</li>
-            <li>Node.js</li>
-            <li>Graphql</li>
-            <li>Webpack</li>
-          </ul>
-        </div>
-        <Image
-          width={500}
-          height={450}
-          src="/1.png"
-          alt="Screen shot of paypal merchant home page."
-        />
-      </article>
-      <article>
-        <div className="text">
-          <h4>PayPal&apos;s Project</h4>
           <h3>Merchant&apos;s Tenancy Level Experience</h3>
           <p className="blackbox">
             I have been involved in a project at PayPal that aims to address the
@@ -108,6 +72,36 @@ const Projects = () => {
           height={400}
           src="/3.png"
           alt="Screenshot of the Wall of Wonder Collections."
+        />
+      </article>
+      <article>
+        <div className="text">
+          <h4>PayPal&apos;s Project</h4>
+          <h3>Merchant&apos;s Home Page</h3>
+          <p className="blackbox">
+            I have led the development of micro front-end components that are
+            hosted on an internal micro front-end framework at PayPal. This
+            allows for increased flexibility as each component on the page can
+            be built using a variety of different technology stacks. The result
+            is a highly modular and efficient system that can be easily
+            maintained and updated.
+          </p>
+          <h4>Technologies used include:</h4>
+          <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>ReactJS</li>
+            <li>Redux</li>
+            <li>Node.js</li>
+            <li>Graphql</li>
+            <li>Webpack</li>
+          </ul>
+        </div>
+        <Image
+          width={500}
+          height={450}
+          src="/1.png"
+          alt="Screen shot of paypal merchant home page."
         />
       </article>
       <article className="reverse">

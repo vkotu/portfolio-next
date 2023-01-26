@@ -9,7 +9,7 @@ const App = () => {
           name="google-site-verification"
           content="nHDJILrlVK3Vf4iJpFHwF_Ym_KKMy-MIn2boBDmL1rw"
         />
-        <title>Venkat Kotu Portfolio</title>
+        <title>Venkat Kotu</title>
       </Head>
       <Home />;
     </>
