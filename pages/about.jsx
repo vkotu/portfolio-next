@@ -100,7 +100,7 @@ const About = () => {
             <Image
               width={500}
               height={650}
-              src="/9.png"
+              src="/aboutMe.png"
               alt="Screenshot of profile pic."
             />
           </article>
